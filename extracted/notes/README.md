@@ -1,0 +1,1 @@
+Using Cutter and Radare2 to disassemble `Fuck学习强国.exe`, I noticed near `0x02cc7123` there are a bunch of STRING constants that are encoded, chopped up in some way.
